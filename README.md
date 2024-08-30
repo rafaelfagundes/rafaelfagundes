@@ -10,7 +10,7 @@
 #### iOS Development
 - While I already have a foundation in iOS development, I'm actively pursuing mastery in this field.
 - To achieve this goal, I'm currently following the [100 Days of SwiftUI by Paul Hudson](https://www.hackingwithswift.com/100/swiftui).
-- Here are some apps I've built as part of my learning journey, each one demonstrating progress and new skills:
+- Here are some apps I've built as part of my learning journey, each one demonstrating progress and new skills (older to newer):
   - [WeSplit](https://github.com/rafaelfagundes/WeSplit)
   - [Guess The Flag](https://github.com/rafaelfagundes/GuessTheFlag)
 - In each project, I strive to implement additional features and apply concepts from other languages I'm familiar with, such as JavaScript, C#, and Python. This approach helps me to accelerate my learning and draw parallels between different programming paradigms.
