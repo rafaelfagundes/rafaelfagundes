@@ -6,6 +6,15 @@
 ![GitHub](https://img.shields.io/badge/GitHub-rafaelfagundes-181717?style=flat-square&logo=github)
 ![Location](https://img.shields.io/badge/Location-Kitchener,%20ON,%20Canada-green?style=flat-square)
 
+### 🌱 I'm Currently Learning
+#### iOS Development
+- While I already have a foundation in iOS development, I'm actively pursuing mastery in this field.
+- To achieve this goal, I'm currently following the [100 Days of SwiftUI by Paul Hudson](https://www.hackingwithswift.com/100/swiftui).
+- Here are some apps I've built as part of my learning journey, each one demonstrating progress and new skills:
+  - [WeSplit](https://github.com/rafaelfagundes/WeSplit)
+  - [Guess The Flag](https://github.com/rafaelfagundes/GuessTheFlag)
+- In each project, I strive to implement additional features and apply concepts from other languages I'm familiar with, such as JavaScript, C#, and Python. This approach helps me to accelerate my learning and draw parallels between different programming paradigms.
+
 ### 💼 Professional Experience
 - **Freelancing Full Stack Developer** at Tekros (Remote, USA) - April 2024 - Present
 - **Software Developer Co-op** at Shinydocs (Kitchener, ON, Canada) - September 2023 - December 2023
