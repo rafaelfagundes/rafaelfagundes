@@ -13,6 +13,7 @@
 - Here are some apps I've built as part of my learning journey, each one demonstrating progress and new skills (older to newer):
   - [WeSplit](https://github.com/rafaelfagundes/WeSplit)
   - [Guess The Flag](https://github.com/rafaelfagundes/GuessTheFlag)
+  - [BetterRest](https://github.com/rafaelfagundes/BetterRest)
 - In each project, I strive to implement additional features and apply concepts from other languages I'm familiar with, such as JavaScript, C#, and Python. This approach helps me to accelerate my learning and draw parallels between different programming paradigms.
 
 ### 💼 Professional Experience
