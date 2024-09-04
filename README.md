@@ -26,7 +26,7 @@
 - **Software Developer** at Cotak (Brazil) - April 2012 - March 2015
 
 ### 🎓 Education
-- **Graduate Certificate** in Mobile Solutions Development, Conestoga College (2024)
+- **Graduate Certificate** in Mobile Solutions Development, Conestoga College, ON, Canada (2024)
   - GPA: 3.92, Graduated with High Distinction
 - **Bachelor's Degree** in Information Systems, Pontificia Universidade Catolica (PUC - Minas), Brazil (2011)
 
