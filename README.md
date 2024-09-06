@@ -15,6 +15,7 @@
   - [Guess The Flag](https://github.com/rafaelfagundes/GuessTheFlag)
   - [BetterRest](https://github.com/rafaelfagundes/BetterRest)
   - [Rock, Paper & Scissors](https://github.com/rafaelfagundes/RockPaperScissors)
+  - [WordScramle](https://github.com/rafaelfagundes/WordScramble)
 - In each project, I strive to implement additional features and apply concepts from other languages I'm familiar with, such as JavaScript, C#, and Python. This approach helps me to accelerate my learning and draw parallels between different programming paradigms.
 
 ### 💼 Professional Experience
