@@ -6,6 +6,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-rafaelfagundes-181717?style=flat-square&logo=github)
 ![Location](https://img.shields.io/badge/Location-Kitchener,%20ON,%20Canada-green?style=flat-square)
 
+### Check out my latest project
+[NextBoilerplate](https://github.com/rafaelfagundes/next-boilerplate)
+
 ### 🌱 I'm Currently Learning
 #### iOS Development
 - While I already have a foundation in iOS development, I'm actively pursuing mastery in this field.
