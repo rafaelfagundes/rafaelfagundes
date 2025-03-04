@@ -63,7 +63,7 @@
 ### 📫 How to reach me
 
 -   LinkedIn: [linkedin.com/in/rafaelcfl](https://linkedin.com/in/rafaelcfl)
--   Website (coming soon): [rafaelfagundes.com](https://rafaelfagundes.com)
+-   Website: [rafaelfagundes.com](https://rafaelfagundes.com)
 
 ---
 
