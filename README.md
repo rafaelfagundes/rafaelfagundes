@@ -11,7 +11,7 @@
 - [WellScout](https://github.com/rafaelfagundes/well-scout) ([Landing Page](https://github.com/rafaelfagundes/well-scout-page)): An Expo-based React Native project for analyzing products and providing dietary advice, leveraging Open Food Facts and Google Gemini AI.
 - [8-bit Chat](https://github.com/rafaelfagundes/8-bit-chat): A retro-styled AI chat interface (Next.js, OpenAI).
 - [Ask](https://github.com/rafaelfagundes/ask): A context-aware terminal assistant powered by Google's Gemini AI (Go).
-- [NextBoilerplate](https://github.com/rafaelfagundes/next-boilerplate)
+- [NextBoilerplate](https://github.com/rafaelfagundes/next-boilerplate): A starter template for Next.js 14 projects, including authentication, styling, database integration (Drizzle ORM), and a robust development setup.
 
 ### 🌱 I'm Currently Learning
 
