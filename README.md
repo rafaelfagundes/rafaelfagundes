@@ -13,20 +13,6 @@
 - [Ask](https://github.com/rafaelfagundes/ask): A context-aware terminal assistant powered by Google's Gemini AI (Go).
 - [NextBoilerplate](https://github.com/rafaelfagundes/next-boilerplate): A starter template for Next.js 14 projects, including authentication, styling, database integration (Drizzle ORM), and a robust development setup.
 
-### 🌱 I'm Currently Learning
-
-#### iOS Development
-
--   While I already have a foundation in iOS development, I'm actively pursuing mastery in this field.
--   To achieve this goal, I'm currently following the [100 Days of SwiftUI by Paul Hudson](https://www.hackingwithswift.com/100/swiftui).
--   Here are some apps I've built as part of my learning journey, each one demonstrating progress and new skills (older to newer):
-    -   [WeSplit](https://github.com/rafaelfagundes/WeSplit)
-    -   [Guess The Flag](https://github.com/rafaelfagundes/GuessTheFlag)
-    -   [BetterRest](https://github.com/rafaelfagundes/BetterRest)
-    -   [Rock, Paper & Scissors](https://github.com/rafaelfagundes/RockPaperScissors)
-    -   [WordScramble](https://github.com/rafaelfagundes/WordScramble)
--   In each project, I strive to implement additional features and apply concepts from other languages I'm familiar with, such as JavaScript, C#, and Python. This approach helps me to accelerate my learning and draw parallels between different programming paradigms.
-
 ### 💼 Professional Experience
 
 -   **Freelancing Full Stack Developer** at Tekros (Remote, USA) - April 2024 - Present
@@ -59,6 +45,20 @@
 -   Over 12 years of experience in full stack development
 -   Proficient in both frontend and backend technologies
 -   Expertise in cloud technologies and scalable solutions
+
+### 🌱 I'm Currently Learning
+
+#### iOS Development
+
+-   While I already have a foundation in iOS development, I'm actively pursuing mastery in this field.
+-   To achieve this goal, I'm currently following the [100 Days of SwiftUI by Paul Hudson](https://www.hackingwithswift.com/100/swiftui).
+-   Here are some apps I've built as part of my learning journey, each one demonstrating progress and new skills (older to newer):
+    -   [WeSplit](https://github.com/rafaelfagundes/WeSplit)
+    -   [Guess The Flag](https://github.com/rafaelfagundes/GuessTheFlag)
+    -   [BetterRest](https://github.com/rafaelfagundes/BetterRest)
+    -   [Rock, Paper & Scissors](https://github.com/rafaelfagundes/RockPaperScissors)
+    -   [WordScramble](https://github.com/rafaelfagundes/WordScramble)
+-   In each project, I strive to implement additional features and apply concepts from other languages I'm familiar with, such as JavaScript, C#, and Python. This approach helps me to accelerate my learning and draw parallels between different programming paradigms.
 
 ### 📫 How to reach me
 
